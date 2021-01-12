@@ -1,2 +1,1 @@
-# daily-coding-problems
-######################
+# course
